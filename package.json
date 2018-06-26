@@ -1,7 +1,7 @@
 {
-  "name": "calendar-app",
+  "name": "my-react-boilerplate",
   "version": "1.0.0",
-  "description": "Calendar App Challenge",
+  "description": "Boilerplate for React",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
